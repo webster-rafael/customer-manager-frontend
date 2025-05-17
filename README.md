@@ -5,6 +5,10 @@ Frontend para gerenciar clientes, que permite criar, editar, visualizar e deleta
 
 ---
 
+## 💻 Demonstração
+
+Acesso ao projeto em: https://customer-manager-eosin.vercel.app/
+
 ## 📝 Regras de Negócio
 
 - [x] Usuários podem criar, editar, visualizar e deletar clientes.
