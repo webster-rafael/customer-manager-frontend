@@ -7,14 +7,14 @@ Frontend para gerenciar clientes, que permite criar, editar, visualizar e deleta
 
 ## 📝 Regras de Negócio
 
-[x] - Usuários podem criar, editar, visualizar e deletar clientes.
-[x] - Cada cliente tem dados pessoais e endereço.
-[x] - Validação dos dados é feita no frontend com **Zod** para garantir integridade.
-[x] - Dados são carregados e sincronizados via **React Query** para melhor performance e cache.
-[x] - Geração de relatórios em PDF usando **jsPDF**.
-[x] - Navegação entre páginas com **React Router DOM**.
-[x] - Interface estilizada com **Material UI** e customizada via **Tailwind CSS**.
-[x] - Proteção de rotas com **React Router DOM**.
+- [x] Usuários podem criar, editar, visualizar e deletar clientes.
+- [x] Cada cliente tem dados pessoais e endereço.
+- [x] Validação dos dados é feita no frontend com **Zod** para garantir integridade.
+- [x] Dados são carregados e sincronizados via **React Query** para melhor performance e cache.
+- [x] Geração de relatórios em PDF usando **jsPDF**.
+- [x] Navegação entre páginas com **React Router DOM**.
+- [x] Interface estilizada com **Material UI** e customizada via **Tailwind CSS**.
+- [x] Proteção de rotas com **React Router DOM**.
 
 
 ---
